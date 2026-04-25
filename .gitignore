@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local model artifacts
+checkpoint-*/
+TheModel/
+logs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Hugging Face / cache
+.cache/
+
