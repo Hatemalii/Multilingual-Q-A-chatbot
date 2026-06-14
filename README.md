@@ -134,28 +134,7 @@ Question:
 Wann fiel die Berliner Mauer?
 ```
 
-## Limitations
 
-- the model was not trained to full completion
-- performance varies across languages
-- the demo is intended for showcasing and experimentation
-- results depend on answer span quality and context clarity
 
-## Future Improvements
-
-- train for more steps or more complete epochs
-- improve preprocessing and answer span alignment
-- evaluate on a larger held-out split
-- compare checkpoints and keep the best one automatically
-- deploy the demo publicly
-
-## GitHub Upload Tips
-
-- do not upload large checkpoints directly to GitHub if they exceed GitHub file size limits
-- keep the code, notebooks, screenshots, and README in the repo
-- store large model files separately if needed
-- add screenshots or a short demo GIF/video to make the repo stronger
-
-## Author
 
 Built by Hatem as part of a multilingual NLP learning and portfolio project.
