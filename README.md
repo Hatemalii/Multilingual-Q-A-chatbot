@@ -2,6 +2,9 @@
 
 A multilingual question answering project built by fine-tuning `xlm-roberta-base` on the TyDi QA dataset. The project includes the original training notebook, a lightweight evaluation notebook with `Exact Match (EM)` and `F1`, and a small Gradio demo for interactive testing.
 
+
+https://youtu.be/https://www.youtube.com/watch?v=zGWQgMklN50
+
 ## Project Goal
 
 This project was built to strengthen hands-on understanding of:
